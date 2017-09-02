@@ -1,2 +1,2 @@
-# Calculadora
-Practica 1
+# Primer Parcial
+Practica correspondinetes del primer parcial
